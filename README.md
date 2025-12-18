@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AllyPry/Privacy-Collection/blob/main/privacy.png" width="500" alt="alt text">
+  <img src="https://github.com/AllyPry/Privacy-Collection/blob/main/privacy.png" width="300" alt="alt text">
 </div>
 
 # Privacy-Collection
