@@ -21,6 +21,8 @@ https://academy.web3privacy.info/
 
 http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/opsec/
 
+https://www.youtube.com/@Web3PrivacyNow/videos
+
 ## Cryptos
 https://www.getmonero.org/
 
