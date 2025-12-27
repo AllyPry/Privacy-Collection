@@ -25,6 +25,8 @@ http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/opsec/
 
 https://www.privacyguides.org/
 
+https://thenewoil.org/en/
+
 ## Cryptos
 https://www.getmonero.org/
 
