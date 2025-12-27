@@ -23,7 +23,7 @@ https://www.youtube.com/@Web3PrivacyNow/videos
 
 http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/opsec/
 
-https://www.privacyguides.org/en/
+https://www.privacyguides.org/
 
 ## Cryptos
 https://www.getmonero.org/
