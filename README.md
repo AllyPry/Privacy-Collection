@@ -8,7 +8,7 @@ Usefull links and tools for privacy
 ## Library
 https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/
 
-https://www.activism.net/cypherpunk/manifesto.html
+https://cdn.nakamotoinstitute.org/docs/cypherpunk-manifesto.txt
 
 https://nakamotoinstitute.org/library/virtual-communities/
 
