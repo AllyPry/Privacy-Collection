@@ -27,6 +27,15 @@ https://www.privacyguides.org/
 
 https://thenewoil.org/en/
 
+https://www.startpage.com/privacy-please/
+
+https://theprivacydad.com/
+
+https://ssd.eff.org/
+
+## Tools
+https://privacyspy.org/
+
 ## Cryptos
 https://www.getmonero.org/
 
