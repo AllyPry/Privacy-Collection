@@ -33,6 +33,13 @@ https://theprivacydad.com/
 
 https://ssd.eff.org/
 
+## Browser
+https://www.torproject.org/
+
+https://brave.com/
+
+https://librewolf.net/
+
 ## Messaging/Mails
 https://tuta.com/
 
