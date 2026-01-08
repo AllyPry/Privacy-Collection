@@ -3,7 +3,7 @@
 </div>
 
 # Privacy-Collection
-Usefull links and tools for privacy
+Usefull links and tools for privacy:
 
 ## Library
 https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/
